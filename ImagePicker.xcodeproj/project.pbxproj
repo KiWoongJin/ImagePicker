@@ -21,6 +21,7 @@
 		0005BA7A1887796A00A8E36E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0005BA5C1887796A00A8E36E /* UIKit.framework */; };
 		0005BA821887796A00A8E36E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0005BA801887796A00A8E36E /* InfoPlist.strings */; };
 		0005BA841887796A00A8E36E /* ImagePickerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0005BA831887796A00A8E36E /* ImagePickerTests.m */; };
+		0005BB161887AF4100A8E36E /* snsd9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0005BB151887AF4100A8E36E /* snsd9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		0005BA7F1887796A00A8E36E /* ImagePickerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ImagePickerTests-Info.plist"; sourceTree = "<group>"; };
 		0005BA811887796A00A8E36E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0005BA831887796A00A8E36E /* ImagePickerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImagePickerTests.m; sourceTree = "<group>"; };
+		0005BB151887AF4100A8E36E /* snsd9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = snsd9.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		0005BA5E1887796A00A8E36E /* ImagePicker */ = {
 			isa = PBXGroup;
 			children = (
+				0005BB151887AF4100A8E36E /* snsd9.jpg */,
 				0005BA671887796A00A8E36E /* AppDelegate.h */,
 				0005BA681887796A00A8E36E /* AppDelegate.m */,
 				0005BA6A1887796A00A8E36E /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0005BA711887796A00A8E36E /* Images.xcassets in Resources */,
+				0005BB161887AF4100A8E36E /* snsd9.jpg in Resources */,
 				0005BA631887796A00A8E36E /* InfoPlist.strings in Resources */,
 				0005BA6C1887796A00A8E36E /* Main.storyboard in Resources */,
 			);
